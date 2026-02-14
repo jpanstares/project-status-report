@@ -12,7 +12,7 @@
 ## Week 4 - January 27, 2026
 - First draft of system architecture completed
 - User interface (UI) mockups approved by stakeholders
-- Budget remaining: $38,000
+- Budget remaining: $39,000
 
 ## Week 5 - February 3, 2026
 - Database migration successfully completed
